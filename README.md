@@ -1,3 +1,3 @@
 # hello-world
 My first repository - Welcome to version control tools
-I am a designer who wants to understand the world of code. I have hair and 2 eyes. I am a lucky human.
+I deleted all your text. What will you let me get away with it or will you foil my sinister plot?
